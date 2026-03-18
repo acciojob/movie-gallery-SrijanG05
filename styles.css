@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.col-sm-1{
+	display:flex;
+}
+.col-sm-2{
+	display:flex;
+}
+.col-sm-4{
+	display:flex;
+}
+.img{
+	height:100px;
+	width:100px;
+}
